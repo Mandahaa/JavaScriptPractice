@@ -18,11 +18,3 @@ primeNumber(11)
 function fibSequence(number){
     
 }
-
-let i =3
-let power = 64
-while(i>20){
-
-}
-
-console.log(Math.random)
