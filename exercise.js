@@ -144,5 +144,3 @@ const gCd = (int1, int2) => {
     }
 }
 gCd(2,4)
-
-
